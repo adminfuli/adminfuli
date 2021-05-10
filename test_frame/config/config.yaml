@@ -1,0 +1,13 @@
+host: 'http://8.129.91.152:8766/futureloan'
+log:
+  file_name: 'lesson36.log'
+  name: 'root'
+  logger_level: 'INFO'
+  hand_level: 'INFO'
+  matter: '%(asctime)s-%(name)s-%(levelname)s-%(message)s-%(filename)s-%(lineno)s'
+  file_level: 'INFO'
+db:
+  host: '8.129.91.152'
+  user: 'future'
+  password: '123456'
+  database: 'futureloan'

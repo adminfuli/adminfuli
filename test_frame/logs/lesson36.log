@@ -1,0 +1,245 @@
+2021-04-04 11:56:07,860-root-INFO-用例失败assert 1 == 2-test_register.py-23
+2021-04-04 12:07:12,801-root-INFO-用例失败assert 1 == 2-test_register.py-20
+2021-04-04 18:05:26,541-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:05:27,063-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:12:17,358-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:12:33,402-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:12:33,917-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:13:56,747-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-04 18:13:57,270-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-05 10:59:02,918-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-05 10:59:03,384-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-05 13:35:03,564-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-05 13:35:04,191-root-INFO-用例失败assert 1 == 2-test_register.py-32
+2021-04-07 17:58:57,166-root-INFO-用例失败assert 1 == 2-test_register.py-37
+2021-04-07 17:58:57,951-root-INFO-用例失败assert 1 == 2-test_register.py-37
+2021-04-07 17:59:53,412-root-INFO-用例失败assert 2 == 1-test_register.py-37
+2021-04-07 17:59:53,599-root-INFO-用例失败assert 1 == 2-test_register.py-37
+2021-04-07 18:00:25,582-root-INFO-用例失败assert 1 == 2-test_register.py-37
+2021-04-08 09:39:08,577-root-INFO-用例失败assert 2 == 0-test_register.py-37
+2021-04-09 10:19:08,146-root-INFO-用例失败assert 2 == 0-test_register.py-42
+2021-04-09 10:32:49,651-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:49,870-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:50,057-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:50,229-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:50,573-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:50,760-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:32:50,947-root-INFO-用例失败assert 1 == 0-test_register.py-42
+2021-04-09 10:33:31,334-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:31,553-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:31,725-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:31,897-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:32,240-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:32,428-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:33:32,600-root-INFO-用例失败assert 1 == 0-test_register.py-42
+2021-04-09 10:35:07,448-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:07,698-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:07,870-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:08,057-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:08,479-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:08,651-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-09 10:35:08,870-root-INFO-用例失败assert 1 == 0-test_register.py-42
+2021-04-09 10:35:59,275-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:35:59,509-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:35:59,712-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:35:59,978-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:00,352-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:00,556-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:00,727-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-09 10:36:32,047-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:32,313-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:32,516-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:32,703-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:33,063-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:33,266-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:36:33,469-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-09 10:39:01,209-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:01,443-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:01,631-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:01,818-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:02,178-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:02,365-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:39:02,599-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-09 10:40:41,020-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:41,254-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:41,457-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:41,644-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:42,097-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:42,285-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:40:42,472-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-09 10:42:41,273-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:41,507-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:41,804-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:41,976-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:42,351-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:42,523-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:42:42,726-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-09 10:43:27,287-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:27,537-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:27,709-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:27,990-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:28,521-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:28,709-root-INFO-用例失败assert 1 == 2-test_register.py-41
+2021-04-09 10:43:28,912-root-INFO-用例失败assert 1 == 0-test_register.py-41
+2021-04-10 17:15:17,522-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:15:17,992-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:16:13,091-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:16:13,551-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:16:46,899-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-10 17:16:47,050-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:17:27,009-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-10 17:17:27,147-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:19:21,042-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-10 17:19:21,183-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:19:32,900-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-10 17:21:14,885-root-INFO-用例失败assert 2 == 0-test_register.py-42
+2021-04-10 17:21:42,319-root-INFO-用例失败assert 2 == 0-test_register.py-42
+2021-04-13 09:14:17,501-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-13 09:14:17,826-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 09:14:17,980-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-13 09:14:18,265-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 09:14:18,535-root-INFO-用例失败assert 0 == 2-test_register.py-42
+2021-04-13 09:59:41,618-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-13 09:59:42,149-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 09:59:42,368-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-13 09:59:42,649-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 09:59:43,367-root-INFO-用例失败assert 0 == 2-test_register.py-42
+2021-04-13 10:04:26,123-root-INFO-用例失败assert 2 == 1-test_register.py-42
+2021-04-13 10:04:26,699-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 10:04:27,336-root-INFO-用例失败assert 1 == 2-test_register.py-42
+2021-04-13 10:04:27,907-root-INFO-用例失败assert 1001 == 2-test_register.py-42
+2021-04-13 10:04:28,213-root-INFO-用例失败assert 0 == 2-test_register.py-42
+2021-04-13 17:12:37,556-root-INFO-用例失败assert 2 == 1-test_login.py-26
+2021-04-13 17:12:38,049-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 17:12:38,299-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 17:12:38,659-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 17:12:38,999-root-INFO-用例失败assert 0 == 2-test_login.py-26
+2021-04-13 18:13:00,597-root-INFO-用例失败assert 2 == 1-test_login.py-26
+2021-04-13 18:13:00,950-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:13:01,159-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 18:13:01,437-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:13:01,731-root-INFO-用例失败assert 0 == 2-test_login.py-26
+2021-04-13 18:14:17,791-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 18:14:18,850-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:14:19,010-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 18:14:19,311-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:14:19,599-root-INFO-用例失败assert 0 == 2-test_login.py-26
+2021-04-13 18:59:05,229-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 18:59:06,618-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:59:06,863-root-INFO-用例失败assert 1 == 2-test_login.py-26
+2021-04-13 18:59:08,142-root-INFO-用例失败assert 1001 == 2-test_login.py-26
+2021-04-13 18:59:08,487-root-INFO-用例失败assert 0 == 2-test_login.py-26
+2021-04-13 19:46:09,393-root-INFO-用例失败assert 2 == 1001-test_login.py-26
+2021-04-13 19:46:10,558-root-INFO-用例失败assert 2 == 1001-test_login.py-26
+2021-04-13 19:46:10,986-root-INFO-用例失败assert 2 == 0-test_login.py-26
+2021-04-13 19:55:18,543-root-INFO-用例失败assert 2 == 1001-test_login.py-31
+2021-04-13 19:55:19,048-root-INFO-用例失败assert 2 == 1001-test_login.py-31
+2021-04-13 19:55:19,205-root-INFO-用例失败assert 2 == 0-test_login.py-31
+2021-04-15 09:36:45,657-root-INFO-用例失败assert 2 == 1001-test_login.py-32
+2021-04-15 09:36:46,139-root-INFO-用例失败assert 2 == 1001-test_login.py-32
+2021-04-15 09:36:46,293-root-INFO-用例失败assert 2 == 0-test_login.py-32
+2021-04-15 15:45:52,556-root-INFO-用例失败assert 2 == 1001-test_login.py-32
+2021-04-15 15:45:53,003-root-INFO-用例失败assert 2 == 1001-test_login.py-32
+2021-04-15 15:45:53,328-root-INFO-用例失败assert 2 == 0-test_login.py-32
+2021-04-15 15:47:13,857-root-INFO-用例失败assert 2 == 1001-test_login.py-32
+2021-04-15 15:47:14,110-root-INFO-用例失败assert 2 == 0-test_login.py-32
+2021-04-15 16:08:58,193-root-INFO-用例失败assert 1001 == 0-test_login.py-36
+2021-04-15 16:10:57,179-root-INFO-用例失败assert 1001 == 0-test_login.py-38
+2021-04-15 16:11:49,508-root-INFO-用例失败assert 1001 == 0-test_login.py-38
+2021-04-15 16:12:52,586-root-INFO-用例失败assert 1001 == 0-test_login.py-38
+2021-04-20 17:25:09,248-root-INFO-断言失败assert 0 == 1007-test_recharge.py-42
+2021-04-22 14:28:53,817-root-INFO-断言失败assert Decimal('127600') == [{'leave_amount': Decimal('127600.00')}]-test_recharge.py-54
+2021-04-22 15:24:28,462-root-INFO-用例失败assert 2 == 1-test_register.py-40
+2021-04-22 15:24:28,462-root-INFO-用例失败assert 2 == 1-test_register.py-40
+2021-04-22 15:24:28,838-root-INFO-用例失败assert 1 == 2-test_register.py-40
+2021-04-22 15:24:28,838-root-INFO-用例失败assert 1 == 2-test_register.py-40
+2021-04-22 15:44:38,128-root-INFO-断言失败-middleware_data.py-17
+2021-04-22 15:44:38,128-root-INFO-断言失败-middleware_data.py-17
+2021-04-22 15:45:15,082-root-INFO-断言失败-middleware_data.py-17
+2021-04-22 15:49:05,141-root-INFO-断言失败-middleware_data.py-17
+2021-04-22 15:52:04,491-root-INFO-用例失败assert 2 == 1-test_register.py-38
+2021-04-22 15:52:04,937-root-INFO-用例失败assert 1 == 2-test_register.py-38
+2021-04-27 17:59:11,084-root-INFO-用例失败assert 2 == 1-test_register.py-38
+2021-04-27 17:59:11,302-root-INFO-用例失败assert 1 == 2-test_register.py-38
+2021-04-27 18:04:26,959-root-INFO-用例失败assert 2 == 1-test_register.py-38
+2021-04-27 18:04:27,218-root-INFO-用例失败assert 1 == 2-test_register.py-38
+2021-04-27 18:12:42,559-root-INFO-用例失败assert 2 == 1-test_register.py-34
+2021-04-27 18:12:42,765-root-INFO-用例失败assert 1 == 2-test_register.py-34
+2021-04-28 19:26:32,951-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:26:33,212-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:26:36,193-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:26:36,433-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:33:26,287-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:33:26,510-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:38:34,173-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:38:34,399-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:39:05,144-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:39:05,397-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:39:11,931-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:39:12,254-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:39:25,407-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:39:25,664-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:39:33,610-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:39:33,919-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:41:03,276-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:41:03,473-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-28 19:42:25,513-root-INFO-用例失败assert 2 == 1-test_register.py-31
+2021-04-28 19:42:25,731-root-INFO-用例失败assert 1 == 2-test_register.py-31
+2021-04-29 17:44:10,292-root-INFO-用例失败assert 1 == '0'-test_register.py-24
+2021-04-29 17:46:11,583-root-INFO-用例失败assert 1 == '1'-test_register.py-24
+2021-04-29 17:46:11,879-root-INFO-用例失败assert 2 == '2'-test_register.py-24
+2021-04-29 17:46:12,118-root-INFO-用例失败assert 2 == '2'-test_register.py-24
+2021-04-29 17:46:12,330-root-INFO-用例失败assert 2 == '2'-test_register.py-24
+2021-04-29 17:46:12,566-root-INFO-用例失败assert 2 == '1'-test_register.py-24
+2021-04-29 17:46:12,792-root-INFO-用例失败assert 1 == '2'-test_register.py-24
+2021-04-29 17:46:13,011-root-INFO-用例失败assert 2 == '2'-test_register.py-24
+2021-04-29 17:46:13,230-root-INFO-用例失败assert 2 == '2'-test_register.py-24
+2021-04-29 17:47:34,460-root-INFO-用例失败assert '手机号为空' == 'ok'-test_register.py-24
+2021-04-29 17:47:34,753-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:47:34,976-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:47:35,187-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:47:35,488-root-INFO-用例失败assert 2 == 1-test_register.py-24
+2021-04-29 17:47:35,709-root-INFO-用例失败assert 1 == 2-test_register.py-24
+2021-04-29 17:47:35,869-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'-test_register.py-24
+2021-04-29 17:47:36,099-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'-test_register.py-24
+2021-04-29 17:48:15,307-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:48:15,511-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:48:15,726-root-INFO-用例失败assert '无效的手机格式' == 'ok'-test_register.py-24
+2021-04-29 17:48:15,884-root-INFO-用例失败assert 2 == 1-test_register.py-24
+2021-04-29 17:48:16,104-root-INFO-用例失败assert 1 == 2-test_register.py-24
+2021-04-29 17:48:16,331-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'-test_register.py-24
+2021-04-29 17:48:16,484-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'-test_register.py-24
+2021-05-09 16:24:49,041-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:24:49,199-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:24:49,400-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:24:49,698-root-INFO-用例失败assert 2 == 1-test_register.py-24
+2021-05-09 16:24:49,874-root-INFO-用例失败assert 1 == 2-test_register.py-24
+2021-05-09 16:24:50,053-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'
+  - ok
+  + 密码格式为8到16位-test_register.py-24
+2021-05-09 16:24:50,298-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'
+  - ok
+  + 密码格式为8到16位-test_register.py-24
+2021-05-09 16:27:03,055-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:27:03,240-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:27:03,390-root-INFO-用例失败assert '无效的手机格式' == 'ok'
+  - ok
+  + 无效的手机格式-test_register.py-24
+2021-05-09 16:27:03,696-root-INFO-用例失败assert 2 == 1-test_register.py-24
+2021-05-09 16:27:03,893-root-INFO-用例失败assert 1 == 2-test_register.py-24
+2021-05-09 16:27:04,070-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'
+  - ok
+  + 密码格式为8到16位-test_register.py-24
+2021-05-09 16:27:04,227-root-INFO-用例失败assert '密码格式为8到16位' == 'ok'
+  - ok
+  + 密码格式为8到16位-test_register.py-24

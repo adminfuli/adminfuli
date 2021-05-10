@@ -1,0 +1,1 @@
+2021-04-05 13:35:03,564-root-INFO-用例失败assert 1 == 2-test_register.py-32
